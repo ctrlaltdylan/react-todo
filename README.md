@@ -1,3 +1,9 @@
+# React Todo App
+
+## This README is huge! I just want to get started!
+
+No problem, just run `npm i` or `yarn` and use `yarn start` or `npm start` to start the local server. Anddd that's it!
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
